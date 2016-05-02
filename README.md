@@ -1,2 +1,3 @@
 # hello-world
-Just another repo
+
+Hei, dette er min første grein
